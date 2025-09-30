@@ -16,7 +16,7 @@ This repository contains my solutions to the **NeetCode 150** — a curated list
 ## 🗂️ Problem Categories
 The 150 problems are divided into different categories:
 
-- Arrays & Hashing  
+- [Arrays & Hashing](<./https://github.com/Bindhhuu/NeetCode-150/tree/main/Arrays%20%26%20Hashing>)  
 - Two Pointers  
 - Sliding Window  
 - Stack  
