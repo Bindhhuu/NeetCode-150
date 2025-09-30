@@ -18,8 +18,8 @@ The 150 problems are divided into different categories:
 
 - [Arrays & Hashing](./Arrays%20%26%20Hashing)
 - [Two Pointers](./2%20Pointers)  
-- Sliding Window  
-- Stack  
+- [Sliding Window](./SlidingWindow)  
+- [Stack](./Stack)
 - Binary Search  
 - Linked List  
 - Trees  
