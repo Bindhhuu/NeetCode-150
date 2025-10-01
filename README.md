@@ -21,7 +21,7 @@ The 150 problems are divided into different categories:
 - [Sliding Window](./SlidingWindow)  
 - [Stack](./Stack)
 - [Binary Search](./Binary%20Search) 
-- Linked List  
+- [Linked List](./Linked%20List)  
 - Trees  
 - Tries  
 - Heap / Priority Queue  
