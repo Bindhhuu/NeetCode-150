@@ -20,7 +20,7 @@ The 150 problems are divided into different categories:
 - [Two Pointers](./2%20Pointers)  
 - [Sliding Window](./SlidingWindow)  
 - [Stack](./Stack)
-- Binary Search  
+- [Binary Search](./Binary%20Search) 
 - Linked List  
 - Trees  
 - Tries  
