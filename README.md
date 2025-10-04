@@ -22,10 +22,10 @@ The 150 problems are divided into different categories:
 - [Stack](./Stack)
 - [Binary Search](./Binary%20Search) 
 - [Linked List](./Linked%20List)  
-- [Trees](./Trees)  
-- Tries  
-- Heap / Priority Queue  
-- Backtracking  
+- [Trees](./Trees)    
+- [Heap / Priority Queue](./Heaps) 
+- Backtracking
+- Tries 
 - Graphs  
 - Advanced Graphs  
 - 1-D DP  
