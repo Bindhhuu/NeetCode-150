@@ -28,7 +28,7 @@ The 150 problems are divided into different categories:
 - [Tries](./Tries)  
 - [Graphs](./Graphs)  
 - Advanced Graphs  
-- [1-D DP](./1-D%20%Dynamic%20%Programming)  
+- [1-D DP](./1-D%20Dynamic%20Programming))  
 - 2-D DP  
 - Greedy  
 - Intervals  
