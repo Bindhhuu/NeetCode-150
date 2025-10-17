@@ -24,11 +24,11 @@ The 150 problems are divided into different categories:
 - [Linked List](./Linked%20List)  
 - [Trees](./Trees)    
 - [Heap / Priority Queue](./Heaps) 
-- Backtracking
-- Tries 
-- Graphs  
+- [Backtracking](./Backtracking)
+- [Tries](./Tries)  
+- [Graphs](./Graphs)  
 - Advanced Graphs  
-- 1-D DP  
+- [1-D DP](./1-D%20%Dynamic%20%Programming)  
 - 2-D DP  
 - Greedy  
 - Intervals  
